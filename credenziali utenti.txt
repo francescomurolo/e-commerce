@@ -1,0 +1,7 @@
+Credenziali admin:
+email: admin@gmail.com
+password: 1234
+
+Credenziali cliente:
+email: cliente1@gmail.com
+password: 1234
